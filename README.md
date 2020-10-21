@@ -1,6 +1,6 @@
 #### I'd open with a fibonacci joke but it'd spiral out of control 
 
-Hey there! I'm Jess, a software engineer living in the SF Bay Area 🌈 feel free to reach out    <img src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0270.gif" width="35px">
+Hey there! I'm Jess, a software engineer living in the SF Bay Area 🌈 come say hello <img src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0270.gif" width="30px">
   <a href="https://t.me/ellojess">
     <img align="right" alt="Jessica Trinh | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
@@ -23,6 +23,3 @@ Hey there! I'm Jess, a software engineer living in the SF Bay Area 🌈 feel fre
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ellojess&show_icons=true&title_color=fff&icon_color=fc8930&text_color=9f9f9f&bg_color=151515" alt="my github stats" width="445"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellojess&layout=compact&show_icons=true&title_color=fff&icon_color=fc8930&text_color=9f9f9f&bg_color=151515" alt="languages" height="176">
 </p>
-
-
-https://www.animatedimages.org/data/media/111/animated-arrow-image-0270.gif
