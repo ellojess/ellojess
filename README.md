@@ -10,7 +10,7 @@ Hey there! I'm Jess, a software engineer in the SF Bay Area, come say hi <img sr
   <a href="https://www.instagram.com/ellojess/?hl=en">
     <img align="right" alt="Jessica Trinh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://twitter.com/ellojessi">
+  <a href="https://twitter.com/ellojesss">
     <img align="right" alt="Jessica Trinh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/j-trinh/">
