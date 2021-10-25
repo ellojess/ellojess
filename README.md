@@ -1,6 +1,6 @@
 #### I'd open with a fibonacci joke but it'd spiral out of control 
 
-Hey there! I'm Jess, a software engineer in the SF Bay Area, come say hi <img src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0270.gif" width="35px">
+Hey there! I'm Jess, a software engineer in the SF Bay Area, come say hi <img src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0270.gif" width="23px">
   <a href="https://medium.com/@jessicatrinh">
     <img align="right" image alt="medium" src="https://image.flaticon.com/icons/png/512/3829/3829912.png" width="35px"></image> 
   </a>
